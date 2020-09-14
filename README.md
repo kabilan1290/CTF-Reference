@@ -10,3 +10,5 @@ Unicode Analyzer - https://www.fontspace.com/unicode/analyzer
 Live Disassembler - https://godbolt.org/
 
 Linux Command Explaination - https://explainshell.com
+
+Fernet online decoder - https://asecuritysite.com/encryption/ferdecode
