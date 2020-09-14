@@ -6,3 +6,5 @@ Ascii to x86 Disassembly - https://gchq.github.io/CyberChef/#recipe=From_Decimal
 Zero-width space Decoder - https://offdev.net/demos/zwsp-steg-js.
 
 Unicode Analyzer - https://www.fontspace.com/unicode/analyzer
+
+Live Disassembler - https://godbolt.org/
