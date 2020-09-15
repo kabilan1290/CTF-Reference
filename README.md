@@ -30,3 +30,5 @@ Linux Command Explaination - https://explainshell.com
 Fernet online decoder - https://asecuritysite.com/encryption/ferdecode
 
 Online Stegnography Tool - https://stegonline.georgeom.net/upload
+
+Morse code audio decoder https://morsecode.world/international/decoder/audio-decoder-adaptive.html
