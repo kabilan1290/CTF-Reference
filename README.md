@@ -1,7 +1,7 @@
 # CTF-Reference
 **Reference for CTF Challenges.**
 
-**Note :** All the encoded/encrypted strings are '{Hello World}".
+**Note :** All the encoded/encrypted strings are 'Hello World".
 
 List of Numeral Systems - https://en.wikipedia.org/wiki/List_of_numeral_systems
 
