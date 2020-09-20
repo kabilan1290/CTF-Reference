@@ -30,3 +30,5 @@ Linux Command Explaination - https://explainshell.com
 Fernet online decoder - https://asecuritysite.com/encryption/ferdecode
 
 Online Stegnography Tool - https://stegonline.georgeom.net/upload
+
+Dig Webinterface - https://www.digwebinterface.com
