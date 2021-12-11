@@ -17,7 +17,7 @@ Base 85(Ascii85) => BOu!rD]j7BEbo7 - https://www.dcode.fr/ascii-85-encoding
 
 Base 91 => >OwJh>Io0Tv!lE - https://www.dcode.fr/base-91-encoding
 
-Base65536 => 驈ꍬ啯𒁗ꍲᕤ
+Base65536 => 驈ꍬ啯𒁗ꍲᕤ - https://www.better-converter.com/Encoders-Decoders/Base65536-Decode
 
 Ascii to x86 Disassembly - https://gchq.github.io/CyberChef/#recipe=From_Decimal('Comma',false)To_Hex('Space',0)Disassemble_x86('64','Full%20x86%20architecture',16,0,true,true)
 
