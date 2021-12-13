@@ -34,3 +34,7 @@ Fernet online decoder - https://asecuritysite.com/encryption/ferdecode
 Online Stegnography Tool - https://stegonline.georgeom.net/upload
 
 Dig Webinterface - https://www.digwebinterface.com
+
+Gif splitter - https://ezgif.com/split
+
+Online Packet analyser - https://apackets.com
