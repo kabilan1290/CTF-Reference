@@ -40,3 +40,5 @@ Gif splitter - https://ezgif.com/split
 Online Packet analyser - https://apackets.com
 
 Dual Tone Multi Frequency - http://dialabc.com/sound/detect/index.html
+
+Cipher Identifier - https://www.boxentriq.com/code-breaking/cipher-identifier
