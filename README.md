@@ -42,3 +42,5 @@ Online Packet analyser - https://apackets.com
 Dual Tone Multi Frequency - http://dialabc.com/sound/detect/index.html
 
 Cipher Identifier - https://www.boxentriq.com/code-breaking/cipher-identifier
+
+pngcheck -qv test.png - Use this command to check for broken png.
