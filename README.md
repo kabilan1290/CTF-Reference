@@ -47,4 +47,4 @@ pngcheck -qv test.png - Use this command to check for broken png.
 
 Png repair tool - https://github.com/sherlly/PCRT
 
-Simple one liner - <?php system("whoami");?>
+Simple one liner - `<?php system("whoami");?>`
