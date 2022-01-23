@@ -19,7 +19,7 @@ Base 91 => >OwJh>Io0Tv!lE - https://www.dcode.fr/base-91-encoding
 
 Base65536 => 驈ꍬ啯𒁗ꍲᕤ - https://www.better-converter.com/Encoders-Decoders/Base65536-Decode
 
-Twin Hex ==> https://www.calcresult.com/misc/cyphers/twin-hex.html
+Twin Hex ==> 30l5os5uo44v64s51c - https://www.calcresult.com/misc/cyphers/twin-hex.html
 
 Ascii to x86 Disassembly - https://gchq.github.io/CyberChef/#recipe=From_Decimal('Comma',false)To_Hex('Space',0)Disassemble_x86('64','Full%20x86%20architecture',16,0,true,true)
 
