@@ -39,6 +39,8 @@ Dig Webinterface - https://www.digwebinterface.com
 
 Gif splitter - https://ezgif.com/split
 
+convert challange.gif -transparent white result.gif
+
 Online Packet analyser - https://apackets.com
 
 Dual Tone Multi Frequency - http://dialabc.com/sound/detect/index.html
